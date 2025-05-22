@@ -4,7 +4,7 @@
 Welcome to the [**Grab**](https://grab.raghavkarn.com)! A [Grub](https://grub.hackclub.com) project that is a homepage for a potential food and groceries delivery app. **Grab** is not a real product or service. Instead, you could download Aerosol (a Chrome extension that converts AQI to ciggarette count) if you wish.
 
 ## Preview
-![Preview](src/img/preview.jpeg)
+![Preview](src/img/preview.png)
 
 ## Features
 
